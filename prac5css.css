@@ -1,0 +1,42 @@
+h1  {
+
+    color: blueviolet;
+    text-align: center;
+
+}
+
+table {
+
+    border-collapse: collapse;
+
+}
+
+#cabezera {
+
+    color: blue; 
+    border: solid black 0px ;
+    border-style: none;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+#te1    {
+
+    border: solid black 1px;
+    background-color: lightgrey;
+    
+}
+
+
+div {
+
+    margin-left: 400px;
+
+} 
+
+td, tr {
+    
+    border: 2px solid black;
+
+}
